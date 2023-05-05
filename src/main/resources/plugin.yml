@@ -1,0 +1,6 @@
+name: WitherInitHP
+version: '${version}'
+main: com.gmail.necnionch.myplugin.witherinithp.bukkit.WitherInitHealthPlugin
+api-version: 1.13
+authors: [ Necnion8 ]
+description: 召喚チャージ終了後にHPをフル回復させる
